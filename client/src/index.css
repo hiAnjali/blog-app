@@ -2,25 +2,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Poppins&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
-:root{
-    --color-primary:#3E737B;
-    --white--:#fff;
-    --red--:rgb(255,63,63);
-    --grey--:hsl(220,20%,10%,5%);
-    --bg--:#32434D;
-    /* hwb(240 31% 48%) */
-    --transition: all 300ms ease;
-    --container-width-lg:84%;
-    --container-width-md:92%;
-    --form-width:50%;
-    --radius-1:0.3rem;
-    --radius-2:0.6rem;
-    --radius-3:1rem;
-    --radius-4:2rem;
-        /* border-radius: #4F5951; */
-    /* border-radius: #929B80; */
-    /* border-radius: #D4D5BF; */
-}
+
 
 *{
     margin: 0;   
@@ -414,7 +396,7 @@ input, select, textarea{
     width: 5rem;
     aspect-ratio: 1/1;
     border-radius: 50%;
-    border: 0.3rem solid var(--bg--);
+    border: 0.3rem solid var(--#32434D--);
     overflow: hidden;
 }
 
@@ -476,7 +458,7 @@ input, select, textarea{
     cursor: pointer;
     padding: 0;
     /* font-size: 2rem; */
-    background: var(--color-primary);
+    background: var(--#3E737B);
 }
 
 .profile-details h1{
