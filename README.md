@@ -1,4 +1,4 @@
-📝 MERN Blog App
+## 📝 MERN Blog App
 A full-stack blog application built using MongoDB, Express.js, React.js, and Node.js (MERN stack) that allows users to create, read, update, and delete (CRUD) blog posts.
 
 🚀 Features
