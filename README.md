@@ -3,8 +3,8 @@ A full-stack blog application built using MongoDB, Express.js, React.js, and Nod
 
 
 ### 🚀 Features
-#### User Authentication (JWT-based)
-#### Create, Edit, and Delete Blog Posts
+#### - User Authentication (JWT-based)
+#### - Create, Edit, and Delete Blog Posts
 #### Upload and Store Images for Posts
 #### Category-Based Post Filtering
 #### Responsive UI with React.js
